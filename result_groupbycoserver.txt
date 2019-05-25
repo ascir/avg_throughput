@@ -1,0 +1,4 @@
+Co Server   Throughput
+200         inf
+206         inf
+302    0.010675
